@@ -1,0 +1,1 @@
+wagger Static BoroHubMediaHub Documentation
